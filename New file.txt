@@ -1,2 +1,3 @@
 A text file has been added
 A new line has been added in remote server
+A new line has been added in remote server and needs to be fetched and pulled in local
