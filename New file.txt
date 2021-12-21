@@ -2,6 +2,7 @@ A text file has been added
 A new line has been added in remote server
 A new line has been added in remote server and needs to be fetched and pulled in local
 A new line has been added in local master branch
+A new line has been added in local master branch
 just adding new line to switch another branch
 wanted to try git revert
 
