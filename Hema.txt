@@ -1,1 +1,1 @@
-msgbox "CherryPick"
+msgbox "CherryPick demo"
